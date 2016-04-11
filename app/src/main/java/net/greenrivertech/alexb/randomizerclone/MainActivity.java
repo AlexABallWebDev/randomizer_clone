@@ -6,6 +6,9 @@
     This activity is the main activity in the project. The user presses
     the button that covers most of the screen, and an arrow pointing
     left or right appears for 4 seconds, then disappears.
+
+    Arrow images used from:
+    http://sweetclipart.com/multisite/sweetclipart/files/arrows_back_forward.png
  */
 package net.greenrivertech.alexb.randomizerclone;
 
@@ -24,6 +27,9 @@ import java.util.Random;
  * This activity is the main activity in the project. The user presses
  * the button that covers most of the screen, and an arrow pointing
  * left or right appears for 4 seconds, then disappears.
+ *
+ * Arrow images used from:
+ * http://sweetclipart.com/multisite/sweetclipart/files/arrows_back_forward.png
  *
  * @author Alex Ball
  */
